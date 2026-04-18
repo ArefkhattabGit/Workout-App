@@ -7,7 +7,7 @@ and motivational challenges. Designed with a clean and intuitive UI.
 
 ### 1. Authentication Flow
 <p float="left">
-  <img src="screenshots/01. Splash.png" width="200"/>
+  <img src="01. Splash.png" width="200"/>
   <img src="screenshots/01. Splash – Loader.png" width="200"/>
   <img src="screenshots/02. Onboarding.png" width="200"/>
 </p>
